@@ -1,0 +1,19 @@
+{
+  "name": "@garrettreed/heap-permutations",
+  "version": "0.1.0",
+  "description": "An implementation of B.R. Heap's Permutation algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettreed/heap-permutations.git"
+  },
+  "author": "Garrett Reed <garrett@garrettreed.info>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettreed/heap-permutations/issues"
+  },
+  "homepage": "https://github.com/garrettreed/heap-permutations#readme"
+}

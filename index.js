@@ -2,7 +2,7 @@
 
 /**
  * Implementation of Heap's Permutation algorithm
- * 
+ *
  * @param  Array
  * @return Array array of permutations
  */
@@ -33,3 +33,5 @@ function permutations(arr) {
         this[a] = temp;
     }
 }
+
+module.exports = permutations;
